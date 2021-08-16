@@ -1,8 +1,6 @@
 # How to use
 Clone repo
 
-`git clone https://github.com/webdevmatics/webmall.git`
-
 `Save .env.example as .env and put your database credentials`
 
 
@@ -22,8 +20,3 @@ And Migrate with
  `php artisan storage:link`
 
 
-Login Credentials for admin panel
-
- admin@webmall.com  password : password
- seller1@webmall.com  password : password
- seller2@webmall.com  password : password
